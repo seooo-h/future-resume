@@ -3,8 +3,8 @@
 ## CONTACT
 
 E-mail : happy051024@naver.com  
-Github ID : seooo-h 깃허브 페이지 링크 걸기기
-
+Github Page : [seooo-h](https://github.com/dashboard)  
+Phone : 010 - XXXX - XXXX
 ## PROFILE
 
 안녕하세요 저는 **노력하는 개발자** 박서현 입니다.  
@@ -13,19 +13,22 @@ Github ID : seooo-h 깃허브 페이지 링크 걸기기
 
 ## EDUCATION
 
-### 정보융합학부(2024.03 - 2028.02) , Department of Computer Science Postgraduate
+#### 정보융합학부(2024.03 - 2028.02) , Department of Computer Science Postgraduate
 
--광운대학교 , Purdue University
+광운대학교 , Purdue University
 
-### SSAFY 15기 수료
+#### SSAFY 15기 수료
 
 삼성 청년 SW 아카데미 (SSAFY)
 
-## EXPERIENCE
+## INTERN EXPERIENCE
 
 - Google Korea SWE Intern
 
 ## PROJECTS
+
+라즈베리 파이를 이용한 강의실 키오스크 프로젝트
+소비자 성향에 맞는 여행 계획을 자동으로 생성해 주는 프로젝트 
 
 ## CERTIFICATION
 
